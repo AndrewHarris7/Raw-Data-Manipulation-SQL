@@ -1,4 +1,4 @@
-# SQL-challenge
+# Raw-Data-Manipulation
 
 ## Instructions
 
