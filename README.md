@@ -35,10 +35,12 @@ Once you have a complete database, do the following:
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
+## Technologies and Resources
 
-Technologies and Resources
-Postgresql
-pgAdmin4 - Database Admin Tool
-QuickDBD - Quick Database Diagrams (Tool to create ERD - Entity Relationship Diagrams)
-Jupyter Notebooks
-Pyton, Pandas, MatPlotLib, Numpy, SQL Alchemy
+SQL      
+ pgAdmin4 - Database Admin Tool for Postgresql
+
+Python            
+  Pandas-(libraries-MatPlotLib Numpy) 
+
+SQL Alchemy
